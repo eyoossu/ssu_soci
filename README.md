@@ -1,5 +1,5 @@
-# syllabus
-# 디지털 사회와 문화분석 (Digital Society and Cultural Analysis)
+
+# 디지털 사회와 문화분석 (Digital Society and Cultural Analysis) syllabus 
 
 **개설학과:** 정보사회학과  
 **이수구분:** 전공선택  
